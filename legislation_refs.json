@@ -1,0 +1,193 @@
+{
+  "legislation_references": {
+    "UK_GDPR": {
+      "full_name": "UK General Data Protection Regulation",
+      "category": "Data Protection",
+      "applicable_to": ["IT Security & Data Protection"],
+      "key_requirements": [
+        "Lawful basis for processing",
+        "Data subject rights (access, rectification, erasure)",
+        "Privacy by design and default",
+        "Data Protection Impact Assessments (DPIAs)",
+        "Breach notification within 72 hours",
+        "Appointment of DPO where required"
+      ],
+      "reference_links": [
+        "https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/"
+      ],
+      "compliance_checklist": [
+        "Privacy notices updated",
+        "Lawful basis documented",
+        "Data retention schedule in place",
+        "DPIA process established",
+        "Breach response plan documented",
+        "Third-party processor agreements reviewed"
+      ]
+    },
+    "Data_Protection_Act_2018": {
+      "full_name": "Data Protection Act 2018",
+      "category": "Data Protection",
+      "applicable_to": ["IT Security & Data Protection"],
+      "key_requirements": [
+        "Supplements UK GDPR",
+        "Law enforcement processing rules",
+        "Intelligence services processing",
+        "Regulatory powers of ICO"
+      ],
+      "reference_links": [
+        "https://www.legislation.gov.uk/ukpga/2018/12/contents"
+      ]
+    },
+    "Bribery_Act_2010": {
+      "full_name": "Bribery Act 2010",
+      "category": "Legal & Contractual",
+      "applicable_to": ["Legal & Contractual"],
+      "key_requirements": [
+        "Prohibition of bribing another person",
+        "Prohibition of receiving bribes",
+        "Bribery of foreign public officials",
+        "Corporate offence of failing to prevent bribery",
+        "Adequate procedures defence"
+      ],
+      "reference_links": [
+        "https://www.legislation.gov.uk/ukpga/2010/23/contents"
+      ],
+      "compliance_checklist": [
+        "Anti-bribery policy in place",
+        "Risk assessment completed",
+        "Due diligence procedures",
+        "Training programme active",
+        "Monitoring and review processes"
+      ]
+    },
+    "Companies_Act_2006": {
+      "full_name": "Companies Act 2006",
+      "category": "Legal & Contractual",
+      "applicable_to": ["Legal & Contractual"],
+      "key_requirements": [
+        "Director duties and responsibilities",
+        "Company formation and constitution",
+        "Share capital and distributions",
+        "Annual accounts and reports",
+        "Audit requirements",
+        "Company meetings and resolutions"
+      ],
+      "reference_links": [
+        "https://www.legislation.gov.uk/ukpga/2006/46/contents"
+      ]
+    },
+    "EU_Regulation_1223_2009": {
+      "full_name": "Regulation (EC) No 1223/2009 on Cosmetic Products",
+      "category": "Product Compliance",
+      "applicable_to": ["Product Liability & Traceability"],
+      "key_requirements": [
+        "Product safety assessment",
+        "Responsible person designation",
+        "Product information file",
+        "CPNP notification",
+        "Labelling requirements",
+        "Prohibited substances list"
+      ],
+      "reference_links": [
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1223-20220101"
+      ],
+      "compliance_checklist": [
+        "Safety assessments completed",
+        "PIF maintained and accessible",
+        "CPNP notifications submitted",
+        "Labels comply with INCI requirements",
+        "Responsible person designated"
+      ]
+    },
+    "REACH_Regulation": {
+      "full_name": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+      "category": "Environmental",
+      "applicable_to": ["Environmental Compliance", "Product Liability & Traceability"],
+      "key_requirements": [
+        "Registration of substances",
+        "Safety data sheets",
+        "Communication in supply chain",
+        "Authorisation of SVHCs",
+        "Restriction compliance"
+      ],
+      "reference_links": [
+        "https://echa.europa.eu/regulations/reach/understanding-reach"
+      ]
+    },
+    "Modern_Slavery_Act_2015": {
+      "full_name": "Modern Slavery Act 2015",
+      "category": "Legal & Contractual",
+      "applicable_to": ["Legal & Contractual", "Trade Compliance"],
+      "key_requirements": [
+        "Slavery and trafficking statement",
+        "Supply chain transparency",
+        "Due diligence processes",
+        "Annual reporting requirement"
+      ],
+      "reference_links": [
+        "https://www.legislation.gov.uk/ukpga/2015/30/contents"
+      ],
+      "compliance_checklist": [
+        "Annual statement published",
+        "Board approval obtained",
+        "Supply chain mapping completed",
+        "Risk assessment conducted",
+        "Due diligence procedures implemented"
+      ]
+    },
+    "UK_Export_Control": {
+      "full_name": "UK Strategic Export Control",
+      "category": "Trade Compliance",
+      "applicable_to": ["Trade Compliance"],
+      "key_requirements": [
+        "Export licensing requirements",
+        "Dual-use goods controls",
+        "Military goods restrictions",
+        "Sanctions compliance",
+        "End-user declarations"
+      ],
+      "reference_links": [
+        "https://www.gov.uk/government/collections/strategic-export-controls-licensing-guidance"
+      ]
+    },
+    "Customs_Regulations": {
+      "full_name": "UK Customs Regulations",
+      "category": "Trade Compliance",
+      "applicable_to": ["Trade Compliance"],
+      "key_requirements": [
+        "Customs declarations",
+        "Rules of origin",
+        "Tariff classification",
+        "Customs valuation",
+        "AEO requirements"
+      ],
+      "reference_links": [
+        "https://www.gov.uk/government/collections/uk-trade-tariff-volume-1"
+      ]
+    },
+    "CSDDD": {
+      "full_name": "Corporate Sustainability Due Diligence Directive",
+      "category": "Environmental",
+      "applicable_to": ["Environmental Compliance", "Legal & Contractual"],
+      "key_requirements": [
+        "Human rights due diligence",
+        "Environmental due diligence",
+        "Climate transition plan",
+        "Value chain assessment",
+        "Stakeholder engagement",
+        "Remediation processes"
+      ],
+      "reference_links": [
+        "https://commission.europa.eu/business-economy-euro/doing-business-eu/corporate-sustainability-due-diligence_en"
+      ],
+      "compliance_checklist": [
+        "Due diligence policy adopted",
+        "Risk identification process",
+        "Prevention and mitigation measures",
+        "Monitoring effectiveness",
+        "Grievance mechanism established",
+        "Public communication"
+      ]
+    }
+  }
+}

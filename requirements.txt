@@ -1,0 +1,17 @@
+# Core dependencies
+pandas>=2.0.0
+openpyxl>=3.1.0
+ttkbootstrap>=1.10.0
+Pillow>=10.0.0
+python-dateutil>=2.8.0
+
+# Additional dependencies
+numpy>=1.24.0
+pytz>=2023.3
+typing-extensions>=4.5.0
+
+# Email support
+secure-smtplib>=0.1.1
+
+# Optional for building executable
+pyinstaller>=5.0.0
